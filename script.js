@@ -1,8 +1,8 @@
 // Weather Dashboard JavaScript
 class WeatherDashboard {
     constructor() {
-        // API Configuration - Replace with your OpenWeatherMap API key
-        this.API_KEY = '6b71d9091ca30137a023984f0490d4ca'; // Get from https://openweathermap.org/api
+        
+        this.API_KEY = '6b71d9091ca30137a023984f0490d4ca'; 
         this.BASE_URL = 'https://api.openweathermap.org/data/2.5';
         
         // State management
@@ -726,4 +726,5 @@ style.textContent = `
         }
     }
 `;
+
 document.head.appendChild(style);
