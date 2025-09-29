@@ -19,4 +19,6 @@ It shows weather for a searched city or your current location using the **OpenWe
 - JavaScript
 - OpenWeatherMap API
 
+📸 Screenshot
+![Weather Dashboard Screenshot](screenshots/dashboard.png)
 
