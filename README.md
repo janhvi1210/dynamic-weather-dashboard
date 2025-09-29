@@ -20,5 +20,5 @@ It shows weather for a searched city or your current location using the **OpenWe
 - OpenWeatherMap API
 
 📸 Screenshot
-![Weather Dashboard Screenshot](screenshots/dashboard.png)
+![Weather Dashboard Screenshot](https://github.com/janhvi1210/dynamic-weather-dashboard/blob/main/Screenshot.jpeg?raw=true)
 
